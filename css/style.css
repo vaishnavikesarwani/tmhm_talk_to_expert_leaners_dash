@@ -1,0 +1,21 @@
+.container{
+    margin:20px;
+}
+ 
+.conatiner-fluid h2{
+    font-size: 2em;
+    font-weight: bold;
+}
+.expert img{
+    border-radius:100%;
+}
+
+.info a{
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.info{
+    text-align: center;
+}
